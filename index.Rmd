@@ -1,0 +1,24 @@
+---
+title: "Bienvenue !"
+image: "ousmane.jpg"
+links:
+  
+  - label: Blog
+    url: "https://datascience-avec-r.netlify.app/"
+  - label: Twitter
+    url: "https://twitter.com/oousmane_11"
+  - label: GitHub
+    url: "https://github.com/oousmane"
+  - label: Email
+    url: "ousmanealyyabyoure@gmail.com"
+  - label: CV
+    url : "CV/CV.pdf"
+output:
+  postcards::jolla
+---
+
+Salut 👋- Je me nomme **Ousmane Ouedraogo** ! Je suis météo 🌦️ et je travaille à l' **Agence Nationale de la Météorologie** à **Ouagadougou, Burkina Faso**.
+
+Vous êtes sur mon site web personnel qui contient des informations sur moi et où je blogue sur divers sujets d'intérêt en lien avec la data science avec R
+
+Vous pouvez me contacter au besoin via 👇.
