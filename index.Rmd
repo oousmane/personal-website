@@ -21,10 +21,36 @@ output:
 
 Salut 👋🏻 Je suis météo 🌦️ et je travaille à l' **Agence Nationale de la Météorologie** à **Ouagadougou, Burkina Faso**.
 
-Je fais également du **Freelance** : Analyse et visualisation de données, modélisation statistique avec R
+Je fais également du **Freelance** : Analyse et visualisation de données, modélisation statistique, calcul scientifique.
 
-## Cursus
+## Compétences
+
+Bien que Météo de formation professionnelle, et Mathématicien de formation académique j' ai pu bâtir de solides compétences en
+
+-   Data science
+
+-   Machine Learning
+
+-   Text Mining
+
+-   Produits & services climatiques
+
+-   Gestion des données climatiques/environnementales
+
+## Outils 
+
+-   R et R Studio : que j'utilise à près de 90% du temps.
+
+-   CDO : Climate Data Operator
+
+-   MS Office : Suite Bureautique Microsoft
+
+-   Github
+
+## Background
 
 **Licence Maths & Info** \| U03S \| 2019 , Ouaga - Burkina Faso
 
 **TS Météorologie** \| EAMAC \| 2014 , Niamey-Niger
+
+## 
