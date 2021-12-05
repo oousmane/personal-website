@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue !"
+title: "Ousmane"
 image: "ousmane.jpg"
 links:
   
@@ -14,9 +14,17 @@ links:
 #  - label: CV
 #    url : "CV/CV.pdf"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
-Salut 👋- Je me nomme **Ousmane Ouedraogo** ! Je suis météo 🌦️ et je travaille à l' **Agence Nationale de la Météorologie** à **Ouagadougou, Burkina Faso**. Je fais également du **Freelance** : Analyse et visualisation de données, modélisation statistique avec R .
+## Bio
 
-Vous êtes sur mon site web personnel qui contient des informations sur moi et où je blogue sur divers sujets en lien avec la data science et le machine learning.
+Salut 👋🏻 Je suis météo 🌦️ et je travaille à l' **Agence Nationale de la Météorologie** à **Ouagadougou, Burkina Faso**.
+
+Je fais également du **Freelance** : Analyse et visualisation de données, modélisation statistique avec R
+
+## Cursus
+
+**Licence Maths & Info** \| U03S \| 2019 , Ouaga - Burkina Faso
+
+**TS Météorologie** \| EAMAC \| 2014 , Niamey-Niger
