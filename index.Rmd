@@ -4,7 +4,7 @@ image: "ousmane.jpg"
 links:
   
   - label: Blog
-    url: "https://datascience-avec-r.netlify.app/"
+    url: "https://blogdsar.netlify.app/"
   - label: Twitter
     url: "https://twitter.com/oousmane_11"
   - label: GitHub
