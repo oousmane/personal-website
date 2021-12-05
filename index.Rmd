@@ -10,7 +10,7 @@ links:
   - label: GitHub
     url: "https://github.com/oousmane"
   - label: Email
-    url: "mailto:o_ousmane@outlook.fr"
+    url: "mailto:ousmanealyyabyoure@gmail.com"
 #  - label: CV
 #    url : "CV/CV.pdf"
 output:
